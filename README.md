@@ -17,5 +17,3 @@ HTML5
 CSS3
 Bootstrap
 JavaScript
-
-📂 How to Run the Project Locally
